@@ -15,7 +15,7 @@ El **Restaurant Disfrutar** és un dels restaurants gastronòmics més reconegut
 [Pàgina web de Disfrutar](https://www.disfrutarbarcelona.com)
 
 ## Imatge del restaurant
-![Restaurant Disfrutar Barcelona](https://upload.wikimedia.org/wikipedia/commons/2/2b/Restaurant_Disfrutar_Barcelona.jpg)
+![Restaurant Disfrutar Barcelona](hola.jpg)
 
 ## Taula resum
 
